@@ -26,15 +26,15 @@ Vraag2
           A: De spieren (gereedschap)
           S: Evenwichtsorgaan, ogen, tastzin
     (b) De oceanen ontdekken. 
-          P: 
-          O: 
-          A: 
-          S: 
+          P: % oceaan ontdekt
+          O: Oceaan
+          A: Motor van boot, Zeil van boot
+          S: Kaart, gps?
     (c) Voetbal spelen.  
-          P: 
-          O: 
-          A: 
-          S:
+          P: Aantal goals
+          O: Voetbal veld
+          A: De spieren
+          S: Ogen, Evenwichtsorgaan, Oren
     (d) Automatisch gebruikte AI boeken vinden op het internet.  
           P: 
           O: 
