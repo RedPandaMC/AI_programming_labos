@@ -36,26 +36,29 @@ Vraag2
           A: De spieren
           S: Ogen, Evenwichtsorgaan, Oren
     (d) Automatisch gebruikte AI boeken vinden op het internet.  
-          P: 
-          O: 
-          A: 
-          S:
+          P: Click rate?
+          O: Internet
+          A: Zoekmachine
+          S: Beeldscherm afbeelding, image recognition, language recognition
     (e) Tennis spelen tegen een muur.  
-          P: 
-          O: 
-          A: 
-          S:
+          P: Aantal keren tegen de muur gebotst
+          O: Tennis zaal
+          A: Tennisraket, voeten
+          S: Ogen, Evenwichtsorgaan, Hersenen
     (f) Een hoge sprong uitvoeren.  
-          P: 
-          O: 
-          A: 
-          S:
+          P: Hoogte van sprong
+          O: Turnzaal?
+          A: Benen
+          S: Ogen, Meetstaaf?
     (g) Op een veiling bieden op een item.
-          P: 
-          O: 
-          A: 
-          S:
+          P: De prijs
+          O: Veiling
+          A: Een bordje met een nummer of een knop?
+          S: Ogen, handen?
+
 - Veronderstel dat we een thermostaat hebben die de verwarming opzet wanneer de temperatuur minstens 3 graden kouder is dan een instelling en die de verwarming afzet wanneer de temperatuur minstens 3 graden warmer is dan die instelling. Is deze thermostaat een eenvoudige reflex agent, een model-based reflex agent of een goal-based agent? 
+    - Simpel reflex agent?
+
 - Bepaal voor volgende probleem een model-based reflex agent, die dus een interne state heeft, een transition model, sensormetingen kan doen en de state kan updaten. Het probleem is een tegenvloer in een woonkamer die moet worden gestofzuigd door een robotstofzuiger. Je krijgt volgende informatie:
     - Een tegel is altijd vuil of proper.
     - De stofzuiger is exact even groot en kuist precies 1 tegel
